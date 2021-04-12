@@ -47,6 +47,10 @@ Ah, e mantenha o seu projeto do figma organizado, com os elementos nomeados de m
 - A organização do seu projeto: esperamos ver componentização coesa, reuso, elementos nomeados de modo a permitir a identificação, etc;
 - Seu **empenho** e **carinho**! :blush:
 
+## :lock: Autoria
+
+As interfaces prototipadas durante o teste em questão **não serão utilizadas** para quaisquer outros fins além da avaliação do candidato. 
+
 ## :email: Sobre a entrega
 
 Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, enviando um email para **jobs@ensinio.com** com o link para o seu projeto no figma.
