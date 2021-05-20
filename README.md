@@ -53,7 +53,7 @@ As interfaces prototipadas durante o teste em questão **não serão utilizadas*
 
 ## :email: Sobre a entrega
 
-Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, preenchendo [este formulário](https://ensinio.atlassian.net/servicedesk/customer/portal/9/group/12/create/55) com o link para o seu projeto no figma.
+Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link do seu projeto no figma.
 
 Se por motivos de força maior não for possível cumprir com o prazo, por gentileza, nos informe via email. 
 
