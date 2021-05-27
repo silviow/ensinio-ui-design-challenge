@@ -32,8 +32,6 @@ Após isso, crie - em um novo frame, ao lado - uma versão escura para a interfa
 
 Por fim, em novo frame - ao lado dos anteriores -, faça um redesign das 2 primeiras seções (que fornecemos originalmente), com um conceito/estilo completamente diferente, a seu critério.
 
-Ah, e mantenha o seu projeto do figma organizado, com os elementos nomeados de modo a permitir a identificação, e componentes devidamente agrupados.
-
 ## :clap: Diferenciais
 
 - Versões mobile;
