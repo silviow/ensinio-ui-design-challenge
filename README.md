@@ -24,7 +24,7 @@ Para que possamos, entre outros aspectos, validar sua capacidade de manter um "s
 
 ![Sections demo](sections-demo.png)
 
-Esperamos que as próximas 2 seções sigam o mesmo conceito visual das seções originalmente propostas. Não forneceremos especificações de conteúdos para as próximas seções, no entanto, você pode basear-se nas **informações** contidas em nosso [site atual](https://ensinio.com/pt-br/).
+Esperamos que as próximas 2 seções sigam o mesmo conceito visual das seções originalmente propostas. Não forneceremos especificações de conteúdos para as próximas seções, no entanto, você pode basear-se nas **informações** contidas em nosso [site atual](https://ensinio.com/).
 
 Observe também que o projeto que fornecemos contém 2 componentes de menus do tipo popover. Por gentileza, faça os respectivos itens da topbar abrirem eles (parte funcional do protótipo).
 
