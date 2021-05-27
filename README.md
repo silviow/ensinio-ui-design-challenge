@@ -1,6 +1,6 @@
-## :rocket: Teste técnico para UI Designer na Ensinio
+## :rocket: Teste técnico para UI/UX Designer na Ensinio
 
-O presente teste foi planejado para validar os conhecimentos necessários para a posição de UI Designer na Ensinio.
+O presente teste foi planejado para validar os conhecimentos necessários para a posição de UI/UX Designer na Ensinio.
 
 Serão avaliados aspectos relacionados aos conhecimentos em técnicas de concepção e prototipação de interfaces, tendências, domínio da ferramenta Figma, teoria das cores, hierarquia visual/de informações, heurísticas de usabilidade e conhecimentos congêneres.
 
